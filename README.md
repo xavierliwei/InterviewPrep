@@ -39,3 +39,40 @@ Important questions are *italicized*.
 #### Deferred execution and immediate execution in LINQ.
 #### What is the difference between IEnumerable and IQueryable
 #### *Explain Async and await keywords in C#. Give scenarios where you have used it in your project. *
+
+## WCF
+#### What is the ifference between WCF and Web API, advantages of WCF over old asmx web services.
+#### What is 'ABC' in WCF?
+#### How did you secure your WCF service?
+#### How can you consume a WCF or SOAP Service, what is svcutil.exe? 
+#### How can you host a WCF service?
+#### Explain different contracts in WCF.
+
+## MVC
+#### What are all the advantage of MVC?
+#### MVC's application life cycle.
+#### Explain what Routing is in MVC along with attribute Routing.
+#### Explain various action results in MVC.
+#### How do you pass data from Controller to View and from View to Controller
+#### What are Partial Views in MVC? Give some examples where you have used them.
+#### Explain what are ViewBag, ViewData & TempData along with examples from your project.
+#### What are HTML Helpers and give some examples and have you created any custom HTML Helpers?
+#### What is ViewModel. What is the purpose of ViewModel. Could you explain on where you have used ViewModel.
+#### Could you explain all the filters in MVC and tell me what are all the custom filters that you have created. (At least explain Custom Authorization and Exception Filters)
+#### How did you implement validations in MVC and how would you implement a custom validation in MVC?
+#### What are all the different state management techniques in ASP.NET (Server-side: Sessions, Caching, Database, TempData & Client-side: localStorage, cookies, sessionStorage stc.)
+#### Describe the process of creating pages/page designing in MVC from initial to final step by using HTML & CSS. How the page styling can be done? What kind of tolls is it required?
+#### How would you display grid in Razor? How did you do Server-side Pagination, what do you know about PagedList in MVC?
+
+## Web API
+#### What is the difference between SOAP and REST services? Which one do you prefer and why?
+#### Why did you use REST services and what framework did you use to create REST based services?
+#### What are the advantages of REST services?
+#### Difference between GET, POST, PUT, DELETE, PATCH?
+#### All the HTTP status code (especially 2XX, 4XX, and 5XX ones)
+#### How would you secure a Web API and what is token-based authentication in Web API?
+#### Difference between JSON and XML.
+#### How would you handle exceptions in Web API? Which framework did you use to log those exceptions?
+#### How did you consume your RESTful / Web API services? (need to know how to consume using C# with HttpClient, ajax in jQuery, JS and Angular and tool such as Postman)
+#### Explain about HttpClient in .Net 4.5
+How to do unit testing in Web API? What tools you use to test Web API?
